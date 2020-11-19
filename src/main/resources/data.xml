@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+	<user>
+		<userId>1</userId>
+		<name>Tony</name>
+		<emailAddress>tony.tester@gmail.com</emailAddress>
+		<purchasedPackage>master</purchasedPackage>
+	</user>
+	<user>
+		<userId>2</userId>
+		<name>Nick</name>
+		<emailAddress>nick.newbie@gmail.com</emailAddress>
+		<purchasedPackage>starter</purchasedPackage>
+	</user>
+	<user>
+		<userId>3</userId>
+		<name>John</name>
+		<emailAddress>john.intermediate@gmail.com</emailAddress>
+		<purchasedPackage>intermediate</purchasedPackage>
+	</user>
+</users>
